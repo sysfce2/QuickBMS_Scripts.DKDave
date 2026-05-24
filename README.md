@@ -10,5 +10,7 @@ NOTE: These scripts are all my own work based on my own reverse engineering.  Yo
 
 NOTE 2: The latest version of QuickBMS (0.12) may not work correctly with some scripts due to differences in string handling.
 
+NOTE 3: Please don't use the issues system to make requests for new scripts.  Instead, use Reshax forum to post your query.
+
 
 Dave
